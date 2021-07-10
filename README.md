@@ -3,8 +3,6 @@
 
 - 📫 How to reach me: [@abhishekpatelmc](https://www.linkedin.com/in/abhishekpatelmc/)
 
-# Kindly work on dev branch 
-
 ## Features 
 - Analyze Food 
 - Identify Ingrdients present food 
