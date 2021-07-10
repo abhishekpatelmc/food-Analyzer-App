@@ -3,7 +3,7 @@
 
 - 📫 How to reach me: [@abhishekpatelmc](https://www.linkedin.com/in/abhishekpatelmc/)
 
-# Kidnly work on dev branch 
+# Kindly work on dev branch 
 
 ## Features 
 - Analyze Food 
