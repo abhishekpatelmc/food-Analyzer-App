@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "980386033148",
+    "project_id": "food-analyzer-35a67",
+    "storage_bucket": "food-analyzer-35a67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980386033148:android:d13ee229221d6bd65a1679",
+        "android_client_info": {
+          "package_name": "com.example.foodanalyzerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980386033148-b2vmcvet6cud3c3jq89tpug7ucqkuobt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMcjHbrf2oSfouj6bEG5tpLYdGSejYlbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980386033148-b2vmcvet6cud3c3jq89tpug7ucqkuobt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
